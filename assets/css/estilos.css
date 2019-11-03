@@ -1,0 +1,48 @@
+body{
+    margin:0;
+}
+.menu{
+    height: 40px;
+    background: #000;
+    color: #FFF;
+}
+.menu ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.menu li{
+    float:left;
+    height: 40px;
+    line-height: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.menu li:hover{
+    background: #FFF;
+    color: #000;
+}
+.menu a{
+    color: #FFF;
+}
+.menu .menuRight{
+    float: right;
+
+
+}
+.menu .menuRight a{
+    color: #FFF;
+    text-decoration: none;
+    height: 40px;
+    line-height: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.menu .menuRight a:hover{
+    background: #FFF;
+    color: #000;
+}
+.container{
+    margin-top: 20px;
+    margin: 20px;
+}

@@ -1,0 +1,20 @@
+body{
+    background: #FFF;
+    margin:0;
+}
+.topo{
+    height: 90px;
+    background: #000;
+}
+.menu{
+    height: 40px;
+    background: orange;
+}
+.container{
+    min-height: 200px;
+    background: #FFF;
+}
+.rodape{
+    height: 80px;
+    background: blue;
+}
